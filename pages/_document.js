@@ -4,7 +4,7 @@ export default function Document() {
     <Html lang="en">
         <Head>
             <title>Rental-boat</title>
-            <meta property="og:image" content="https://jonathanhnr.github.io/images/Rental-boat/uma-lancha-veiculos-barcos-1499227.jpg" />
+            <meta property="og:image" content="https://jonathanhnr.github.io/Rental-boat/_next/media/uma-lancha-veiculos-barcos-1499227.7feb3408.jpg" />
             <script src="https://kit.fontawesome.com/a388be2306.js" crossOrigin="anonymous" defer/>
         </Head>
       <body>
