@@ -5,10 +5,7 @@ function Banner() {
                 <div className="container">
                     <div className="banner-content">
                         <div className="banner-content__text">
-                            <h2>Economize muito com nosso aluguel de barco barato!</h2>
-                            <p>
-                                Alugando por 3 dias só paga<span> um(2)</span>
-                            </p>
+                            <h2>Economize muito com nosso aluguel de barcos </h2>
                         </div>
                     </div>
                 </div>

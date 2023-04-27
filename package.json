@@ -1,10 +1,13 @@
 {
+  "homepage": "https://github.com/jonathanhnr.github.io/Rental-boat/",
   "name": "rental-car",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "preexport": "yarn build",
+    "export": "next export",
     "start": "next start",
     "lint": "next lint"
   },
