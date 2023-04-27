@@ -2,9 +2,9 @@ import Link from "next/link";
 
 function Footer() {
     return (<>
-        <footer>
+        <footer >
             <div className="container">
-                <div className="footer-content">
+                <div id={"contact"} className="footer-content">
                     <ul className="footer-content__1">
                         <li>
                             Aluguel de <span> barcos</span>

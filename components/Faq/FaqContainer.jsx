@@ -6,7 +6,7 @@ const FaqContainer = () => {
     <>
       <section className={"faq-section"}>
         <div className={"container"}>
-          <div className={"faq-content"}>
+          <div id={"faq"} className={"faq-content"}>
             <div className={"faq-content__title"}>
               <h5>FAQ</h5>
               <h2>Perguntas frequentes</h2>

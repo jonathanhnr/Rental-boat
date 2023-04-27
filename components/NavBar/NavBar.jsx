@@ -23,27 +23,22 @@ const NavBar = () => {
               </Link>
             </li>
             <li>
-              <Link onClick={openNav} href="#">
+              <Link onClick={openNav} href="#about">
                 About
               </Link>
             </li>
             <li>
-              <Link onClick={openNav} href="#">
+              <Link onClick={openNav} href="#models">
                 Models
               </Link>
             </li>
             <li>
-              <Link onClick={openNav} href="#">
-                Testimonials
+              <Link onClick={openNav} href="#faq">
+                faq
               </Link>
             </li>
             <li>
-              <Link onClick={openNav} href="#">
-                Our Team
-              </Link>
-            </li>
-            <li>
-              <Link onClick={openNav} href="#">
+              <Link onClick={openNav} href="#contact">
                 Contact
               </Link>
             </li>
@@ -59,37 +54,27 @@ const NavBar = () => {
           </div>
           <ul className="navbar__links">
             <li>
-              <Link className="home-link" href="/">
+              <Link className="home-link" href="#home">
                 Home
               </Link>
             </li>
             <li>
-              {" "}
-              <Link className="about-link" href="#">
+              <Link className="about-link" href="#about">
                 About
               </Link>
             </li>
             <li>
-              {" "}
-              <Link className="models-link" href="#">
-                Vehicle Models
+              <Link className="models-link" href="#models">
+               Models
               </Link>
             </li>
             <li>
-              {" "}
-              <Link className="testi-link" href="#">
-                Testimonials
+              <Link className="testi-link" href="#faq">
+                faq
               </Link>
             </li>
             <li>
-              {" "}
-              <Link className="team-link" href="#">
-                Our Team
-              </Link>
-            </li>
-            <li>
-              {" "}
-              <Link className="contact-link" href="#">
+              <Link className="contact-link" href="#contact">
                 Contact
               </Link>
             </li>

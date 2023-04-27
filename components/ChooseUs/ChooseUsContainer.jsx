@@ -6,11 +6,11 @@ import Link from "next/link";
 const ChooseUsContainer = () => {
   return (
     <>
-      <section className="choose-section">
+      <section  className="choose-section">
         <div className="container">
           <div className="choose-container">
             <img src={boat.src} className="choose-container__img" alt="car_img" />
-            <div className="text-container">
+            <div id={"about"} className="text-container">
               <div className="text-container__left">
                 <h4>Porque escolher-nos</h4>
                 <h2>As melhores ofertas que você vai/encontrar</h2>

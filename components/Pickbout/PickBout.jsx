@@ -16,9 +16,9 @@ function PickCar() {
 
   return (
     <>
-      <section className="pick-section">
+      <section  className="pick-section">
         <div className="container">
-          <div className="pick-container">
+          <div id={"models"} className="pick-container">
             <div className="pick-container__title">
               <h3>Modelos de barcos</h3>
               <h2>A nossa frota de aluguel</h2>
